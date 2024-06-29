@@ -1,0 +1,16 @@
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.AssemblyInfoInputs.cache
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.AssemblyInfo.cs
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.sourcelink.json
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.exe
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.deps.json
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.runtimeconfig.json
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.runtimeconfig.dev.json
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.dll
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\bin\Debug\net5.0\Mentorders1.pdb
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.dll
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\refint\Mentorders1.dll
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.pdb
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\Mentorders1.genruntimeconfig.cache
+C:\Users\Lenovo-5558\source\repos\Mentorders1\Mentorders1\obj\Debug\net5.0\ref\Mentorders1.dll
